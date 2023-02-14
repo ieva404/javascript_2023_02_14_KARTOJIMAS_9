@@ -26,3 +26,5 @@ console.log(resultatas);
 // function pakeltiSkaiciu(skaicius) {
 //     return skaicius * skaicius;
 // }
+
+//pakeitimas
