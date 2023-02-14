@@ -28,4 +28,4 @@ console.log(resultatas);
 // }
 
 //pakeitimas
-//pakeitimas2
+
